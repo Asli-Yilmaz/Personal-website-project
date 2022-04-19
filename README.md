@@ -6,13 +6,13 @@ HTML, CSS, Bootstrap Javascript ve PHP kullanarak kendim ve memleketimi tanıtan
 
 
 ## Projede Bulunan Temel Sayfalar:
-•	Hakkında Sayfası
-•	Özgeçmiş Sayfası
-•	Şehrim Sayfası
-•	Mirasımız Sayfası
-•	İlgi Alanlarım Sayfası
-•	Login Sayfası
-•	İletişim Sayfası
++	Hakkında Sayfası
++	Özgeçmiş Sayfası
++	Şehrim Sayfası
++	Mirasımız Sayfası
++	İlgi Alanlarım Sayfası
++	Login Sayfası
++	İletişim Sayfası
 
 **1-Hakkında Sayfası:** HTML ve CSS kullanarak oluşturulan, kendime ait bilgiler verdiğim, resim ve linkler ile desteklenen giriş niteliğindeki temel sayfadır.
 
