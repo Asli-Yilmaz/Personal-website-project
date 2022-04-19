@@ -2,7 +2,7 @@
 Sakarya Üniversitesi Bahar Dönemi Web Teknolojileri Proje Ödevi
 
 ## Projenin Amacı:
-HTML, CSS, Javascript ve PHP kullanarak kendim ve memleketimi tanıtan kişisel bir web sitesi geliştirmek.
+HTML, CSS, Bootstrap Javascript ve PHP kullanarak kendim ve memleketimi tanıtan responsive web sitesi geliştirmek.
 
 
 ## Projede Bulunan Temel Sayfalar:
