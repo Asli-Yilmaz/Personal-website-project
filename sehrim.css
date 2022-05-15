@@ -1,0 +1,14 @@
+.carousel-fade .carousel-item, .carousel-item img  {
+  max-height: 90vh;
+  max-width: 90vh;
+  margin: auto;
+}
+footer{
+  clear: both;
+  background-color:#465051;
+  text-align: center;
+  color: white;
+  padding-top: 1%;
+  padding-bottom: 1%;
+  margin-top: 10%;
+}

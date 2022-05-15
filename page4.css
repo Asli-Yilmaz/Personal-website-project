@@ -1,0 +1,66 @@
+.cizgi{
+  width:60%;
+  margin-left:22%;
+  margin-bottom: 2%;
+  margin-top: 10px;
+  border-top-left-radius: 5px;
+  border-top-right-radius: 5px;
+  border-top: 12px solid #7C807B;
+ 
+}
+nav{
+  border-bottom: 2px solid #7C807B;
+}
+body{
+  background:url("images/arka.png");
+  background-size:cover;
+}
+
+form{
+  margin: 150px auto 27.5% auto;
+  width: 90%;
+  height: 100%;
+  background-color:#F0F2D7 ;
+  padding:3% 5%;
+  border-radius: 5%;
+
+}
+h3{
+  text-align: center;  
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.bilgi{
+  background: transparent;
+  border: none;
+  border-bottom: 3px solid #7C807B;
+  width: 100%;
+}
+label{
+  font-weight: 700;
+
+}
+input[type="submit"]{
+   width: 100%;
+   margin-top: 4%;
+   border-radius: 16px;
+   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+   font-weight: 700;
+   background-color:#014037 ;
+   height: 40px;
+   color: #F0F2D7;
+}
+#mesaj{  
+  text-align:center;
+  margin-top:2% ;
+  font-weight:700;
+  font-size:larger ;  
+}
+footer{
+  clear: both;
+  background-color:#465051;
+  text-align: center;
+  color: white;
+  padding-top: 1%;
+  padding-bottom: 1%;
+  margin-top: 10%;
+}

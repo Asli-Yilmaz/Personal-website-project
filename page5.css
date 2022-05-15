@@ -1,0 +1,90 @@
+.cizgi{
+  width:30%;
+  margin-left:35%;
+  margin-bottom: 2%;
+  margin-top: 10px;
+  border-top-left-radius: 5px;
+  border-top-right-radius: 5px;
+  border-top: 12px solid #7C807B; 
+}
+nav{
+  border-bottom: 2px solid #7C807B;
+}
+h2{
+  text-align: center;
+  margin-top: 120px;
+  font-family: 'Times New Roman', Times, serif;
+  padding-top: 10%;
+ 
+}
+body{
+  background: url("images/bg05.jpg");
+  background-size: cover;
+  background-position: top;
+  
+  
+}
+form{
+  padding-left: 25%;
+  margin-top: 2%;
+}
+input,select{
+  width: 80%;
+  border:3px solid darkslategrey;
+  margin-bottom: 2%;
+  padding-bottom: 1%;
+  padding-top: 1%;
+  border-radius:10px;
+  background: transparent;
+
+}
+textarea{
+  width: 80%;
+  padding-bottom: 10%;
+  border:3px solid darkslategrey;
+  border-radius:10px;
+  background: transparent;
+}
+input[name="cinsiyet"]{
+  width: 7%; 
+
+
+}
+label{
+  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-weight: 600;
+  font-style: italic;
+  color: #7C807B;
+}
+button[value="Temizle"]{
+  background-color:crimson;
+  color: #F0F2D7;
+  border: 1px solid crimson;
+  border-radius:10px;
+  width: 20%;
+  font-size:larger;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+button[value="Gönder"]{
+  background-color:teal;
+  border: 1px solid teal;
+  width: 20%;
+  color: #F0F2D7;
+  border-radius:10px;
+  margin-left: 9.4%;
+  font-size:larger;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+input[type="checkbox"]{
+  width: 12%;
+}
+footer{
+  clear: both;
+  background-color:#465051;
+  text-align: center;
+  color: white;
+  padding-top: 1%;
+  padding-bottom: 1%;
+  margin-top: 10%;
+}

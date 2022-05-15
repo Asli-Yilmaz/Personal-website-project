@@ -1,0 +1,157 @@
+#logo{
+  font-size: 2em;
+  font-family:Brush Script MT, Brush Script Std, cursive;
+  font-weight:bolder;
+  margin-left: 10px;
+  padding-bottom:5%;
+  color:#072611;
+  
+}
+body{
+  background-color:#F4F1F1;}
+.header{
+
+  background:url("images/arka.png");
+  margin-top: -7%;
+  width: 100%;
+  height:800px;
+  background-size:cover;
+  padding-top: 630px;
+
+}
+.buton{
+  width:230px;
+  height: 60px;
+  border:5px solid #D7A374;
+  border-radius: 29px;
+  text-align: center;  
+  margin-left: 41%;
+  color: white;
+  font-size: 2em;
+  font-weight: 600;
+  background-color: #D7A374;
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+a{
+  text-decoration: none;
+}
+#menu{
+  margin-left:auto;
+  color: white;
+}
+#anamenu{
+  position: fixed; 
+  top: 0;
+  width: 100%;
+  background-color: rgba(255,255,255,.9);
+  
+}
+
+.paragraf1,h2{
+  text-align: center;
+  padding-top: 1%;
+  width: 100%;
+ 
+}
+.cizgi{
+  width:24%;
+  margin-left:38%;
+  margin-bottom: 1%;
+  border-top-left-radius: 5px;
+  border-top-right-radius: 5px;
+  border-top: 10px solid #0f3721;
+ 
+}
+.nav-link{
+  font-size: larger;
+  font-weight: bolder;
+}
+footer{
+  clear: both;
+  background-color:#465051;
+  text-align: center;
+  color: white;
+  padding-top: 1%;
+  padding-bottom: 1%;
+  
+}
+
+.daire1{
+  width: 300px;
+  height: 300px;
+  border-radius: 100%;
+  background-color: #072611;
+  text-align: center;
+  margin-top: 30px;
+  margin-bottom: 5%;
+  margin-left: 16%; 
+  padding-top:8%;
+  padding-bottom: 1%;
+  font-weight: 700;
+  float: left;
+  color: white;
+}
+.daire2{
+  width: 300px;
+  height: 300px;
+  border-radius: 100%;
+  background-color: #D7A374;
+  text-align: center;
+  margin-top: 10%;
+  margin-bottom: 5%;
+  margin-left: -10px;
+  padding-top:8%;
+  padding-bottom: 1%;
+  font-weight: 700;
+  float: left;
+ 
+}
+.daire3{
+  width: 300px;
+  height: 300px;
+  margin-bottom: 5%;
+  border-radius: 50%;
+  background-color: #0b3428;
+  text-align: center;
+  margin-top: 30px;
+  margin-left: -5px; 
+  padding-top:8%;
+  padding-bottom: 1%;
+  font-weight: 700;
+  float: left;
+  
+}
+p {
+  font-size: 2rem;
+  text-align: center;
+
+}
+a:link{
+  color: white;
+  padding-top: 5%;
+}
+.daire4{
+  width: 20%;
+  height: 20%;
+  border-radius: 50%;
+  background-color:#265538;
+  text-align: center;
+  margin-top: 100px;
+  margin-bottom: 5%;
+  margin-left: -15px;
+  padding-top:8%;
+  padding-bottom: 1%;
+  font-weight: 700;
+  float: left;
+  
+}
+.a{
+  font-style: italic;
+}
+.daireler{
+  width: 80%;
+  margin-left: 10%;
+  clear: both;
+  background-color:#F4F1F1;
+  padding-top:-100%;
+}
