@@ -13,15 +13,13 @@ function temizle(){
 }
 function kontrol(){
   var ad=document.getElementsById("ad");
-  var soyad=document.getElementsById("soyad");
-  var email=document.getElementsById("email");
-  var mesaj=document.getElementsById("mesaj");
   var uyari;
   if (ad==null){
     uyari="İsim bilgisi boş geçilemez.Lütfen isim bilginizi giriniz.";
     document.getElementsById("aduyari").innerHTML=uyari;
     document.getElementsById("aduyari").classList.add("alert alert-warning");
   }
+}
   else if (soyad=null) {
     uyari="Soyad bilgisi boş geçilemez.Lütfen soyad bilginizi giriniz.";
     document.getElementsById("soyaduyari").innerHTML=uyari;
